@@ -29,7 +29,8 @@ Here some modules with their relative counterpart of traditional instruments (if
 | kalimba        |              | speed only (or hold and bend?)
 | shake          |              | accel:(x-y-z), pressure (or piggy pack pressure module?)
 | bagpipe        | bag          | combined with airflow (immagine a guitar fretboard with bagpipe)
-| drone module   | potentiometer| level 
+| drone module   | potentiometer| level
+| rumble pack    |              | haptic feedback
 
 - These modules should somehow fit together (magnet style like Mac power supply).
 - Wireless module for datatransmission.
